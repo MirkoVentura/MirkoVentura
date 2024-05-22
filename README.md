@@ -24,7 +24,7 @@ Hello everyone, my name is Mirko Ventura, and I am a seasoned Full Stack Develop
 
 Professional Experience:
 
-Currently, I am working as a Senior Full Stack Developer at Everli, where I am part of the Retention and Acquisition Squads focusing on the upper funnel of the product, including the customer app and website. My work primarily involves back-end and app tasks using a tech stack that includes PHP Laravel, Vue.js, Kotlin, and Swift. Working in an Agile-SCRUM environment has significantly enhanced my programming skills and my commitment to clean code.
+Currently, I am working as a Senior Full Stack Developer at Everli, where I am part of the Shopper and Logistic Component, My work primarily involves ios app development, butI also worked as Full Stack, so I had my fights with a stack that includes PHP Laravel, Vue.js, Kotlin, and Swift. Working in an Agile-SCRUM environment has significantly enhanced my programming skills and my commitment to clean code.
 
 Prior to this, I was a Research Fellow at ICAR-CNR, where I designed and developed a portal for human resource management and modeled predictive algorithms for sentiment analysis on Italian tweets. My main technologies here included Node.js, React.js, Angular2, Vue.js, and Python for deep learning models.
 
